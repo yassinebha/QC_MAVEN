@@ -1,0 +1,89 @@
+# Created by Octave 4.0.2, Mon Jul 04 16:53:07 2016 EDT <yassinebha@noisetier>
+# name: opt
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 15
+# name: mode
+# type: sq_string
+# elements: 1
+# length: 10
+background
+
+
+# name: mode_pipeline_manager
+# type: sq_string
+# elements: 1
+# length: 7
+session
+
+
+# name: max_queued
+# type: scalar
+8
+
+
+# name: qsub_options
+# type: sq_string
+# elements: 0
+
+
+# name: shell_options
+# type: sq_string
+# elements: 0
+
+
+# name: command_matlab
+# type: sq_string
+# elements: 1
+# length: 15
+/usr/bin/octave
+
+
+# name: time_between_checks
+# type: scalar
+0.5
+
+
+# name: nb_checks_per_point
+# type: scalar
+120
+
+
+# name: flag_short_job_names
+# type: bool
+1
+
+
+# name: flag_debug
+# type: bool
+0
+
+
+# name: flag_verbose
+# type: scalar
+1
+
+
+# name: init_matlab
+# type: sq_string
+# elements: 0
+
+
+# name: nb_resub
+# type: scalar
+0
+
+
+# name: flag_fail
+# type: bool
+0
+
+
+# name: time_cool_down
+# type: scalar
+0
+
+
+
+

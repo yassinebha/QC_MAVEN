@@ -1,0 +1,3046 @@
+# Created by Octave 4.0.2, Mon Jul 04 16:53:07 2016 EDT <yassinebha@noisetier>
+# name: history
+# type: sq_string
+# elements: 1
+# length: 90
+04-Jul-2016 16:53:07 yassinebha on a unix system used PSOM v1.0.4>>>> Created a pipeline !
+
+
+# name: graph_deps
+# type: sparse matrix
+# nnz: 0
+# rows: 65
+# columns: 65
+
+
+# name: list_jobs
+# type: cell
+# rows: 65
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 16
+summary_template
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1470
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1522
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1568
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1587
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1611
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1623
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1642
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1731
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1790
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_A1820
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+report_A1820B
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_B1658
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_B1687
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_B1783
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_C2063
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_C2065
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_C2106
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2098
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2228
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2354
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2358
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2410
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2422
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2443
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+report_D2443B
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2545
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2568
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2570
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_D2583
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 12
+report_P0003
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 11
+init_report
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 10
+index_html
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1470
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1522
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1568
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1587
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1611
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1623
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1642
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1731
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1773
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1790
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_A1820
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 14
+wrapper_A1820B
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_B1658
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_B1687
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_B1783
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_C2063
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_C2065
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_C2106
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2098
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2228
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2354
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2358
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2410
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2422
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2443
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 14
+wrapper_D2443B
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2545
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2568
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2570
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_D2583
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 13
+wrapper_P0003
+
+
+
+
+
+# name: files_in
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 65
+# name: summary_template
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+
+
+# name: report_A1470
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1470/anat_A1470_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1470/func_A1470_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1522
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1522/anat_A1522_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1522/func_A1522_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1568
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1568/anat_A1568_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1568/func_A1568_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1587
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1587/anat_A1587_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1587/func_A1587_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1611
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1611/anat_A1611_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1611/func_A1611_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1623
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1623/anat_A1623_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1623/func_A1623_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1642
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1642/anat_A1642_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1642/func_A1642_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1731
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1731/anat_A1731_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1731/func_A1731_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1773
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1773/anat_A1773_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1773/func_A1773_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1790
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1790/anat_A1790_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1790/func_A1790_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1820
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1820/anat_A1820_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1820/func_A1820_mean_stereonl.mnc
+
+
+
+
+
+# name: report_A1820B
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 112
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1820B/anat_A1820B_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 113
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/A1820B/func_A1820B_mean_stereonl.mnc
+
+
+
+
+
+# name: report_B1658
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1658/anat_B1658_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1658/func_B1658_mean_stereonl.mnc
+
+
+
+
+
+# name: report_B1687
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1687/anat_B1687_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1687/func_B1687_mean_stereonl.mnc
+
+
+
+
+
+# name: report_B1783
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1783/anat_B1783_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/B1783/func_B1783_mean_stereonl.mnc
+
+
+
+
+
+# name: report_C2063
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2063/anat_C2063_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2063/func_C2063_mean_stereonl.mnc
+
+
+
+
+
+# name: report_C2065
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2065/anat_C2065_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2065/func_C2065_mean_stereonl.mnc
+
+
+
+
+
+# name: report_C2106
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2106/anat_C2106_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/C2106/func_C2106_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2098
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2098/anat_D2098_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2098/func_D2098_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2228
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2228/anat_D2228_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2228/func_D2228_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2354
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2354/anat_D2354_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2354/func_D2354_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2358
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2358/anat_D2358_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2358/func_D2358_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2410
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2410/anat_D2410_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2410/func_D2410_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2422
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2422/anat_D2422_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2422/func_D2422_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2443
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2443/anat_D2443_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2443/func_D2443_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2443B
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 112
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2443B/anat_D2443B_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 113
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2443B/func_D2443B_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2545
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2545/anat_D2545_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2545/func_D2545_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2568
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2568/anat_D2568_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2568/func_D2568_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2570
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2570/anat_D2570_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2570/func_D2570_mean_stereonl.mnc
+
+
+
+
+
+# name: report_D2583
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2583/anat_D2583_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/D2583/func_D2583_mean_stereonl.mnc
+
+
+
+
+
+# name: report_P0003
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0/mni_icbm152_t1_tal_nlin_sym_09a.mnc.gz
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 110
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/P0003/anat_P0003_nuc_stereonl.mnc
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 111
+/media/yassinebha/database24/MAVEN_06_2016/fmri_preprocess_INSCAPE_REST/anat/P0003/func_P0003_mean_stereonl.mnc
+
+
+
+
+
+# name: init_report
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: index_html
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1470
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1522
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1568
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1587
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1611
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1623
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1642
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1731
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1773
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1790
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1820
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_A1820B
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_B1658
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_B1687
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_B1783
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_C2063
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_C2065
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_C2106
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2098
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2228
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2354
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2358
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2410
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2422
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2443
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2443B
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2545
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2568
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2570
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_D2583
+# type: cell
+# rows: 0
+# columns: 0
+
+
+# name: wrapper_P0003
+# type: cell
+# rows: 0
+# columns: 0
+
+
+
+
+# name: files_out
+# type: scalar struct
+# ndims: 2
+ 1 1
+# length: 65
+# name: summary_template
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 73
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_template.jpg
+
+
+
+
+
+# name: report_A1470
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1470.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1470_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1470_func.jpg
+
+
+
+
+
+# name: report_A1522
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1522.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1522_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1522_func.jpg
+
+
+
+
+
+# name: report_A1568
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1568.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1568_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1568_func.jpg
+
+
+
+
+
+# name: report_A1587
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1587.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1587_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1587_func.jpg
+
+
+
+
+
+# name: report_A1611
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1611.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1611_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1611_func.jpg
+
+
+
+
+
+# name: report_A1623
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1623.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1623_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1623_func.jpg
+
+
+
+
+
+# name: report_A1642
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1642.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1642_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1642_func.jpg
+
+
+
+
+
+# name: report_A1731
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1731.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1731_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1731_func.jpg
+
+
+
+
+
+# name: report_A1773
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1773.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1773_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1773_func.jpg
+
+
+
+
+
+# name: report_A1790
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1790.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1790_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1790_func.jpg
+
+
+
+
+
+# name: report_A1820
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1820.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820_func.jpg
+
+
+
+
+
+# name: report_A1820B
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 82
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1820B.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 76
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820B_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 76
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820B_func.jpg
+
+
+
+
+
+# name: report_B1658
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1658.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1658_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1658_func.jpg
+
+
+
+
+
+# name: report_B1687
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1687.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1687_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1687_func.jpg
+
+
+
+
+
+# name: report_B1783
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1783.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1783_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1783_func.jpg
+
+
+
+
+
+# name: report_C2063
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2063.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2063_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2063_func.jpg
+
+
+
+
+
+# name: report_C2065
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2065.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2065_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2065_func.jpg
+
+
+
+
+
+# name: report_C2106
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2106.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2106_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2106_func.jpg
+
+
+
+
+
+# name: report_D2098
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2098.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2098_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2098_func.jpg
+
+
+
+
+
+# name: report_D2228
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2228.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2228_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2228_func.jpg
+
+
+
+
+
+# name: report_D2354
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2354.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2354_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2354_func.jpg
+
+
+
+
+
+# name: report_D2358
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2358.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2358_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2358_func.jpg
+
+
+
+
+
+# name: report_D2410
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2410.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2410_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2410_func.jpg
+
+
+
+
+
+# name: report_D2422
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2422.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2422_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2422_func.jpg
+
+
+
+
+
+# name: report_D2443
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2443.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443_func.jpg
+
+
+
+
+
+# name: report_D2443B
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 82
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2443B.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 76
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443B_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 76
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443B_func.jpg
+
+
+
+
+
+# name: report_D2545
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2545.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2545_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2545_func.jpg
+
+
+
+
+
+# name: report_D2568
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2568.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2568_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2568_func.jpg
+
+
+
+
+
+# name: report_D2570
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2570.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2570_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2570_func.jpg
+
+
+
+
+
+# name: report_D2583
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2583.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2583_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2583_func.jpg
+
+
+
+
+
+# name: report_P0003
+# type: cell
+# rows: 1
+# columns: 3
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 81
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_P0003.html
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_P0003_anat.jpg
+
+
+
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 75
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_P0003_func.jpg
+
+
+
+
+
+# name: init_report
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 66
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/qc_report.csv
+
+
+
+
+
+# name: index_html
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 63
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/index.html
+
+
+
+
+
+# name: wrapper_A1470
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1470.html
+
+
+
+
+
+# name: wrapper_A1522
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1522.html
+
+
+
+
+
+# name: wrapper_A1568
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1568.html
+
+
+
+
+
+# name: wrapper_A1587
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1587.html
+
+
+
+
+
+# name: wrapper_A1611
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1611.html
+
+
+
+
+
+# name: wrapper_A1623
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1623.html
+
+
+
+
+
+# name: wrapper_A1642
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1642.html
+
+
+
+
+
+# name: wrapper_A1731
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1731.html
+
+
+
+
+
+# name: wrapper_A1773
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1773.html
+
+
+
+
+
+# name: wrapper_A1790
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1790.html
+
+
+
+
+
+# name: wrapper_A1820
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1820.html
+
+
+
+
+
+# name: wrapper_A1820B
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 72
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1820B.html
+
+
+
+
+
+# name: wrapper_B1658
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1658.html
+
+
+
+
+
+# name: wrapper_B1687
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1687.html
+
+
+
+
+
+# name: wrapper_B1783
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1783.html
+
+
+
+
+
+# name: wrapper_C2063
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2063.html
+
+
+
+
+
+# name: wrapper_C2065
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2065.html
+
+
+
+
+
+# name: wrapper_C2106
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2106.html
+
+
+
+
+
+# name: wrapper_D2098
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2098.html
+
+
+
+
+
+# name: wrapper_D2228
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2228.html
+
+
+
+
+
+# name: wrapper_D2354
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2354.html
+
+
+
+
+
+# name: wrapper_D2358
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2358.html
+
+
+
+
+
+# name: wrapper_D2410
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2410.html
+
+
+
+
+
+# name: wrapper_D2422
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2422.html
+
+
+
+
+
+# name: wrapper_D2443
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2443.html
+
+
+
+
+
+# name: wrapper_D2443B
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 72
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2443B.html
+
+
+
+
+
+# name: wrapper_D2545
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2545.html
+
+
+
+
+
+# name: wrapper_D2568
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2568.html
+
+
+
+
+
+# name: wrapper_D2570
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2570.html
+
+
+
+
+
+# name: wrapper_D2583
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2583.html
+
+
+
+
+
+# name: wrapper_P0003
+# type: cell
+# rows: 1
+# columns: 1
+# name: <cell-element>
+# type: sq_string
+# elements: 1
+# length: 71
+/media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_P0003.html
+
+
+
+
+
+
+
+# name: path_work
+# type: sq_string
+# elements: 1
+# length: 6319
+.:/home/yassinebha/git/qc_fmri_preprocess:/home/yassinebha/git/qc_fmri_preprocess/.git:/home/yassinebha/git/qc_fmri_preprocess/.git/branches:/home/yassinebha/git/qc_fmri_preprocess/.git/hooks:/home/yassinebha/git/qc_fmri_preprocess/.git/info:/home/yassinebha/git/qc_fmri_preprocess/.git/logs:/home/yassinebha/git/qc_fmri_preprocess/.git/logs/refs:/home/yassinebha/git/qc_fmri_preprocess/.git/logs/refs/heads:/home/yassinebha/git/qc_fmri_preprocess/.git/logs/refs/remotes:/home/yassinebha/git/qc_fmri_preprocess/.git/logs/refs/remotes/origin:/home/yassinebha/git/qc_fmri_preprocess/.git/objects:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/05:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/23:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/45:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/67:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/6a:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/7d:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/8a:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/c6:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/c7:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/e3:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/info:/home/yassinebha/git/qc_fmri_preprocess/.git/objects/pack:/home/yassinebha/git/qc_fmri_preprocess/.git/refs:/home/yassinebha/git/qc_fmri_preprocess/.git/refs/heads:/home/yassinebha/git/qc_fmri_preprocess/.git/refs/remotes:/home/yassinebha/git/qc_fmri_preprocess/.git/refs/remotes/origin:/home/yassinebha/git/qc_fmri_preprocess/.git/refs/tags:/home/yassinebha/niak-dev-0.14.0:/home/yassinebha/niak-dev-0.14.0/bricks:/home/yassinebha/niak-dev-0.14.0/bricks/basc:/home/yassinebha/niak-dev-0.14.0/bricks/connectome:/home/yassinebha/niak-dev-0.14.0/bricks/diagnostic:/home/yassinebha/niak-dev-0.14.0/bricks/fir:/home/yassinebha/niak-dev-0.14.0/bricks/fmri_preprocess:/home/yassinebha/niak-dev-0.14.0/bricks/glm:/home/yassinebha/niak-dev-0.14.0/bricks/misc:/home/yassinebha/niak-dev-0.14.0/bricks/region_growing:/home/yassinebha/niak-dev-0.14.0/bricks/sica:/home/yassinebha/niak-dev-0.14.0/bricks/simus:/home/yassinebha/niak-dev-0.14.0/bricks/surface:/home/yassinebha/niak-dev-0.14.0/bricks/t1_processing:/home/yassinebha/niak-dev-0.14.0/commands:/home/yassinebha/niak-dev-0.14.0/commands/SI_processing:/home/yassinebha/niak-dev-0.14.0/commands/clustering:/home/yassinebha/niak-dev-0.14.0/commands/fir:/home/yassinebha/niak-dev-0.14.0/commands/fmristat:/home/yassinebha/niak-dev-0.14.0/commands/formats:/home/yassinebha/niak-dev-0.14.0/commands/misc:/home/yassinebha/niak-dev-0.14.0/commands/read_write:/home/yassinebha/niak-dev-0.14.0/commands/sica:/home/yassinebha/niak-dev-0.14.0/commands/simus:/home/yassinebha/niak-dev-0.14.0/commands/statistics:/home/yassinebha/niak-dev-0.14.0/commands/t1_processing:/home/yassinebha/niak-dev-0.14.0/commands/visualization:/home/yassinebha/niak-dev-0.14.0/demos:/home/yassinebha/niak-dev-0.14.0/demos/bricks:/home/yassinebha/niak-dev-0.14.0/demos/commands:/home/yassinebha/niak-dev-0.14.0/demos/data:/home/yassinebha/niak-dev-0.14.0/demos/pipeline:/home/yassinebha/niak-dev-0.14.0/extensions:/home/yassinebha/niak-dev-0.14.0/extensions/BCT:/home/yassinebha/niak-dev-0.14.0/extensions/BCT/BCT:/home/yassinebha/niak-dev-0.14.0/extensions/BCT/BCT/2016_01_16_BCT:/home/yassinebha/niak-dev-0.14.0/extensions/glm_connectome:/home/yassinebha/niak-dev-0.14.0/extensions/niak_test:/home/yassinebha/niak-dev-0.14.0/extensions/psom-v1.2.0:/home/yassinebha/niak-dev-0.14.0/extensions/stability_fir:/home/yassinebha/niak-dev-0.14.0/extensions/surfstab:/home/yassinebha/niak-dev-0.14.0/pipeline:/home/yassinebha/niak-dev-0.14.0/template:/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0:/home/yassinebha/niak-dev-0.14.0/template/mni-models_icbm152-nl-2009-1.0_surface:/home/yassinebha/niak-dev-0.14.0/util:/home/yassinebha/niak-dev-0.14.0/util/bin:/home/yassinebha/niak-dev-0.14.0/util/pyniak:/usr/lib/x86_64-linux-gnu/octave/packages/control-3.0.0/x86_64-pc-linux-gnu-api-v50+:/usr/share/octave/packages/control-3.0.0:/usr/lib/x86_64-linux-gnu/octave/packages/general-2.0.0/x86_64-pc-linux-gnu-api-v50+:/usr/share/octave/packages/general-2.0.0:/usr/lib/x86_64-linux-gnu/octave/packages/image-2.4.1/x86_64-pc-linux-gnu-api-v50+:/usr/share/octave/packages/image-2.4.1:/usr/lib/x86_64-linux-gnu/octave/packages/io-2.4.1/x86_64-pc-linux-gnu-api-v50+:/usr/share/octave/packages/io-2.4.1:/usr/lib/x86_64-linux-gnu/octave/packages/signal-1.3.2/x86_64-pc-linux-gnu-api-v50+:/usr/share/octave/packages/signal-1.3.2:/usr/share/octave/packages/statistics-1.2.4:/usr/lib/x86_64-linux-gnu/octave/4.0.2/site/oct/x86_64-pc-linux-gnu:/usr/lib/x86_64-linux-gnu/octave/site/oct/api-v50+/x86_64-pc-linux-gnu:/usr/lib/x86_64-linux-gnu/octave/site/oct/x86_64-pc-linux-gnu:/usr/share/octave/4.0.2/site/m:/usr/share/octave/site/api-v50+/m:/usr/share/octave/site/m:/usr/share/octave/site/m/startup:/usr/lib/x86_64-linux-gnu/octave/4.0.2/oct/x86_64-pc-linux-gnu:/usr/share/octave/4.0.2/m:/usr/share/octave/4.0.2/m/audio:/usr/share/octave/4.0.2/m/debian:/usr/share/octave/4.0.2/m/deprecated:/usr/share/octave/4.0.2/m/elfun:/usr/share/octave/4.0.2/m/general:/usr/share/octave/4.0.2/m/geometry:/usr/share/octave/4.0.2/m/gui:/usr/share/octave/4.0.2/m/help:/usr/share/octave/4.0.2/m/image:/usr/share/octave/4.0.2/m/io:/usr/share/octave/4.0.2/m/java:/usr/share/octave/4.0.2/m/linear-algebra:/usr/share/octave/4.0.2/m/miscellaneous:/usr/share/octave/4.0.2/m/optimization:/usr/share/octave/4.0.2/m/path:/usr/share/octave/4.0.2/m/pkg:/usr/share/octave/4.0.2/m/plot:/usr/share/octave/4.0.2/m/plot/appearance:/usr/share/octave/4.0.2/m/plot/draw:/usr/share/octave/4.0.2/m/plot/util:/usr/share/octave/4.0.2/m/polynomial:/usr/share/octave/4.0.2/m/prefs:/usr/share/octave/4.0.2/m/set:/usr/share/octave/4.0.2/m/signal:/usr/share/octave/4.0.2/m/sparse:/usr/share/octave/4.0.2/m/specfun:/usr/share/octave/4.0.2/m/special-matrix:/usr/share/octave/4.0.2/m/startup:/usr/share/octave/4.0.2/m/statistics:/usr/share/octave/4.0.2/m/statistics/base:/usr/share/octave/4.0.2/m/statistics/distributions:/usr/share/octave/4.0.2/m/statistics/models:/usr/share/octave/4.0.2/m/statistics/tests:/usr/share/octave/4.0.2/m/strings:/usr/share/octave/4.0.2/m/testfun:/usr/share/octave/4.0.2/m/time:/usr/share/octave/4.0.2/data
+
+

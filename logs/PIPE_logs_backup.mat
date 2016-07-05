@@ -1,0 +1,2509 @@
+# Created by Octave 4.0.2, Mon Jul 04 16:54:47 2016 EDT <yassinebha@noisetier>
+# name: index_html
+# type: sq_string
+# elements: 1
+# length: 716
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : index_html
+Started on 04-Jul-2016 16:54:28
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/index.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:28 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: init_report
+# type: sq_string
+# elements: 1
+# length: 720
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : init_report
+Started on 04-Jul-2016 16:54:26
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/qc_report.csv was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:26 : The job was successfully completed
+Total time used to process the job : 0.31 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1470
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1470
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1470_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1470_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1470.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:33 : The job was successfully completed
+Total time used to process the job : 25.65 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1522
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1522
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1522_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1522_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1522.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:33 : The job was successfully completed
+Total time used to process the job : 24.86 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1568
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1568
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1568_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1568_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1568.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:32 : The job was successfully completed
+Total time used to process the job : 24.29 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1587
+# type: sq_string
+# elements: 1
+# length: 1406
+
+(octave-gui:2061): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1587
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1587_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1587_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1587.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:34 : The job was successfully completed
+Total time used to process the job : 25.96 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1611
+# type: sq_string
+# elements: 1
+# length: 1406
+
+(octave-gui:2068): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1611
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1611_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1611_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1611.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:32 : The job was successfully completed
+Total time used to process the job : 24.12 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1623
+# type: sq_string
+# elements: 1
+# length: 1406
+
+(octave-gui:2081): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1623
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1623_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1623_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1623.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:33 : The job was successfully completed
+Total time used to process the job : 24.93 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1642
+# type: sq_string
+# elements: 1
+# length: 1406
+
+(octave-gui:2110): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1642
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1642_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1642_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1642.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:33 : The job was successfully completed
+Total time used to process the job : 25.32 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1731
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1731
+Started on 04-Jul-2016 16:53:22
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1731_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1731_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1731.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:43 : The job was successfully completed
+Total time used to process the job : 21.38 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1773
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1773
+Started on 04-Jul-2016 16:53:33
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1773_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1773_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1773.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:53 : The job was successfully completed
+Total time used to process the job : 20.32 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1790
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1790
+Started on 04-Jul-2016 16:53:33
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1790_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1790_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1790.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:54 : The job was successfully completed
+Total time used to process the job : 20.58 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1820
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1820
+Started on 04-Jul-2016 16:53:34
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1820.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:57 : The job was successfully completed
+Total time used to process the job : 22.58 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_A1820B
+# type: sq_string
+# elements: 1
+# length: 1358
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_A1820B
+Started on 04-Jul-2016 16:53:34
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: implicit conversion from numeric to char
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820B_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_A1820B_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_A1820B.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:57 : The job was successfully completed
+Total time used to process the job : 23.18 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_B1658
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_B1658
+Started on 04-Jul-2016 16:53:34
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1658_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1658_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1658.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:58 : The job was successfully completed
+Total time used to process the job : 23.55 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_B1687
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_B1687
+Started on 04-Jul-2016 16:53:35
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1687_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1687_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1687.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:57 : The job was successfully completed
+Total time used to process the job : 22.30 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_B1783
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_B1783
+Started on 04-Jul-2016 16:53:35
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1783_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_B1783_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_B1783.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:58 : The job was successfully completed
+Total time used to process the job : 22.93 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_C2063
+# type: sq_string
+# elements: 1
+# length: 1354
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_C2063
+Started on 04-Jul-2016 16:53:45
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: implicit conversion from numeric to char
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2063_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2063_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2063.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:03 : The job was successfully completed
+Total time used to process the job : 18.92 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_C2065
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_C2065
+Started on 04-Jul-2016 16:53:54
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2065_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2065_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2065.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:14 : The job was successfully completed
+Total time used to process the job : 19.79 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_C2106
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_C2106
+Started on 04-Jul-2016 16:53:55
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2106_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_C2106_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_C2106.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:15 : The job was successfully completed
+Total time used to process the job : 19.83 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2098
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2098
+Started on 04-Jul-2016 16:53:58
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2098_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2098_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2098.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:20 : The job was successfully completed
+Total time used to process the job : 22.03 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2228
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2228
+Started on 04-Jul-2016 16:53:58
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2228_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2228_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2228.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:20 : The job was successfully completed
+Total time used to process the job : 21.97 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2354
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2354
+Started on 04-Jul-2016 16:53:58
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2354_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2354_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2354.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:21 : The job was successfully completed
+Total time used to process the job : 22.61 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2358
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2358
+Started on 04-Jul-2016 16:53:59
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2358_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2358_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2358.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:21 : The job was successfully completed
+Total time used to process the job : 22.23 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2410
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2410
+Started on 04-Jul-2016 16:53:59
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2410_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2410_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2410.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:22 : The job was successfully completed
+Total time used to process the job : 23.18 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2422
+# type: sq_string
+# elements: 1
+# length: 1354
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2422
+Started on 04-Jul-2016 16:54:04
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: implicit conversion from numeric to char
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2422_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2422_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2422.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:25 : The job was successfully completed
+Total time used to process the job : 20.68 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2443
+# type: sq_string
+# elements: 1
+# length: 1354
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2443
+Started on 04-Jul-2016 16:54:15
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: implicit conversion from numeric to char
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2443.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:36 : The job was successfully completed
+Total time used to process the job : 20.87 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2443B
+# type: sq_string
+# elements: 1
+# length: 1308
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2443B
+Started on 04-Jul-2016 16:54:16
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443B_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2443B_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2443B.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:36 : The job was successfully completed
+Total time used to process the job : 20.23 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2545
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2545
+Started on 04-Jul-2016 16:54:21
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2545_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2545_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2545.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:44 : The job was successfully completed
+Total time used to process the job : 22.63 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2568
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2568
+Started on 04-Jul-2016 16:54:21
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2568_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2568_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2568.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 23.85 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2570
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2570
+Started on 04-Jul-2016 16:54:22
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2570_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2570_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2570.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 23.30 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_D2583
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_D2583
+Started on 04-Jul-2016 16:54:22
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2583_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_D2583_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_D2583.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:46 : The job was successfully completed
+Total time used to process the job : 23.51 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: report_P0003
+# type: sq_string
+# elements: 1
+# length: 1304
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : report_P0003
+Started on 04-Jul-2016 16:54:23
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the anatomical scan...
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+Generating slices of the functional scan...
+Generating the QC html report...
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_P0003_anat.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_P0003_func.jpg was successfully generated!
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/report_coregister_P0003.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 21.98 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: summary_template
+# type: sq_string
+# elements: 1
+# length: 1052
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : summary_template
+Started on 04-Jul-2016 16:53:08
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+Generating slices of the template...
+
+(octave-gui:2178): IBUS-WARNING **: Unable to connect to ibus: Could not connect: Connection refused
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/summary_template.jpg was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:53:20 : The job was successfully completed
+Total time used to process the job : 12.39 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1470
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1470
+Started on 04-Jul-2016 16:54:29
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1470.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:29 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1522
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1522
+Started on 04-Jul-2016 16:54:31
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1522.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:31 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1568
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1568
+Started on 04-Jul-2016 16:54:32
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1568.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:32 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1587
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1587
+Started on 04-Jul-2016 16:54:34
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1587.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:34 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1611
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1611
+Started on 04-Jul-2016 16:54:35
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1611.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:35 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1623
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1623
+Started on 04-Jul-2016 16:54:36
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1623.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:37 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1642
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1642
+Started on 04-Jul-2016 16:54:38
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1642.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:38 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1731
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1731
+Started on 04-Jul-2016 16:54:38
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1731.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:38 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1773
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1773
+Started on 04-Jul-2016 16:54:38
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1773.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:38 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1790
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1790
+Started on 04-Jul-2016 16:54:39
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1790.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:39 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1820
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1820
+Started on 04-Jul-2016 16:54:39
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1820.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:39 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_A1820B
+# type: sq_string
+# elements: 1
+# length: 729
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_A1820B
+Started on 04-Jul-2016 16:54:39
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_A1820B.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:39 : The job was successfully completed
+Total time used to process the job : 0.01 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_B1658
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_B1658
+Started on 04-Jul-2016 16:54:40
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1658.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:40 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_B1687
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_B1687
+Started on 04-Jul-2016 16:54:41
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1687.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:41 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_B1783
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_B1783
+Started on 04-Jul-2016 16:54:41
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_B1783.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:41 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_C2063
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_C2063
+Started on 04-Jul-2016 16:54:41
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2063.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:41 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_C2065
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_C2065
+Started on 04-Jul-2016 16:54:42
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2065.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:42 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_C2106
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_C2106
+Started on 04-Jul-2016 16:54:42
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_C2106.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:42 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2098
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2098
+Started on 04-Jul-2016 16:54:43
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2098.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:43 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2228
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2228
+Started on 04-Jul-2016 16:54:43
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2228.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:43 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2354
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2354
+Started on 04-Jul-2016 16:54:43
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2354.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:43 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2358
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2358
+Started on 04-Jul-2016 16:54:44
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2358.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:44 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2410
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2410
+Started on 04-Jul-2016 16:54:44
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2410.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:44 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2422
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2422
+Started on 04-Jul-2016 16:54:44
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2422.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:44 : The job was successfully completed
+Total time used to process the job : 0.02 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2443
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2443
+Started on 04-Jul-2016 16:54:45
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2443.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2443B
+# type: sq_string
+# elements: 1
+# length: 729
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2443B
+Started on 04-Jul-2016 16:54:45
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2443B.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2545
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2545
+Started on 04-Jul-2016 16:54:45
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2545.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2568
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2568
+Started on 04-Jul-2016 16:54:45
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2568.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:45 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2570
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2570
+Started on 04-Jul-2016 16:54:46
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2570.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:46 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_D2583
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_D2583
+Started on 04-Jul-2016 16:54:46
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_D2583.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:46 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+
+# name: wrapper_P0003
+# type: sq_string
+# elements: 1
+# length: 727
+fig_is_visible = on
+c =
+
+onCleanup (@() set (0, 'defaultFigureVisible', fig_is_visible))
+
+
+******************************
+Log of the (octave) job : wrapper_P0003
+Started on 04-Jul-2016 16:54:46
+User: yassinebha
+host : noisetier
+system : unix
+******************************
+The job starts now !
+********************
+
+****************
+Checking outputs
+****************
+The output file or directory /media/yassinebha/database24/MAVEN_06_2016/qc_report/wrapper_P0003.html was successfully generated!
+
+*********************************************************
+04-Jul-2016 16:54:46 : The job was successfully completed
+Total time used to process the job : 0.00 sec.
+*********************************************************
+ans = 0
+
+
+
+

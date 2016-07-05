@@ -1,0 +1,2 @@
+"/usr/bin/octave" --silent --eval "load('/media/yassinebha/database24/MAVEN_06_2016/qc_report/logs//PIPE.mat','path_work'), if ~ismember(path_work,{'gb_niak_omitted','gb_psom_omitted'}), path(path_work), end, load('/media/yassinebha/database24/MAVEN_06_2016/qc_report/logs//PIPE_manager_opt.mat'), psom_pipeline_process('/media/yassinebha/database24/MAVEN_06_2016/qc_report/logs//PIPE.mat',opt),exit" >"/media/yassinebha/database24/MAVEN_06_2016/qc_report/logs//PIPE.log" 2>&1
+touch "/media/yassinebha/database24/MAVEN_06_2016/qc_report/logs//PIPE.exit"
